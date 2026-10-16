@@ -1,0 +1,2 @@
+# rusty
+my first github
